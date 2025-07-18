@@ -1,8 +1,0 @@
-# SHELL
-shell /usr/bin/zsh 
-
-# MODIFIER KEY
-kitty_mod ctrl+shift
-
-# KITTY THEME
-
