@@ -1,0 +1,81 @@
+{
+  // TERMINAL SETTINGS
+  "terminal.integrated.defaultProfile.linux": "bash (2)",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "/bin/bash"
+  },      
+    "zsh": {
+      "path": "/usr/bin/zsh"
+    }
+  },
+
+  // SLIDE BAR AND FILE EXPLORER
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.activityBar.location": "hidden",
+  "workbench.editor.showTabs": "single",
+  "workbench.statusBar.visible": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": true,
+  "breadcrumbs.enabled": false,
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.enableStickyScroll": true, 
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.tree.indent": 8,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.decorations.badges": true,
+  "git.decorations.enabled": true,
+
+  // CUSTOM UI 
+  "window.zoomLevel": 1.1,
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false,
+  "workbench.navigationControl.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "chat.commandCenter.enabled": false,
+  
+  // EDITOR FONT 
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontLigatures": true, 
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.5,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+
+  // CURSOR SETTINGS
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "block",
+  "workbench.colorCustomizations": {
+    "editorCursor.background":"#000000" 
+  },
+ 
+  // DECORATIONS
+  "editor.stickyScroll.enabled": false,
+  "files.insertFinalNewline": true,
+  "editor.lineNumbers": "on", 
+  "editor.guides.indentation": true, 
+
+  // SCROLLBAR SETTINGS
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.minimap.enabled": false,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  
+   
+}
+  
