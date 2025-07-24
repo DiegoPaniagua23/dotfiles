@@ -1,6 +1,6 @@
 # Dotfiles
 
-Configuraciones personales para mi entorno de desarrollo.
+Configuraciones personales para mi entorno Linux.
 
 ## Programas
 
