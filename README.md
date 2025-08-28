@@ -1,8 +1,8 @@
 # Dotfiles
 
-Configuraciones personales para mi entorno Linux.
+This repository stores my personal configurations for my Linux environment.
 
-## Programas
+## Programs
 
 -   **Wezterm**
 -   **Kitty**
